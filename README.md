@@ -1,2 +1,2 @@
-# alx-Pre_course
+alx-Pre_course
 I'm now a ALX student, this is my first repository as a full stake engineer
